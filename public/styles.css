@@ -81,3 +81,10 @@ dd dl {
 dd dl .term {
     margin-bottom: 1rem;
 }
+.box {
+    background-color: lavender;
+    width: 300px;
+    border: 15px lightgreen;
+    padding: 50px;
+    margin: 20px;
+}
