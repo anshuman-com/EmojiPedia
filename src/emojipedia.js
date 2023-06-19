@@ -20,4 +20,11 @@ export const emojipedia = [
         meaning:
             "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
     },
+    {
+        id: 4,
+        emoji: "❣️",
+        name: "Heart Exclamation",
+        meaning:
+            "A decorative exclamation mark, where a heart forms the top part of the symbol, and a circle the lower part. Similar to the way to the man in business suit levitating also creates a similar shape"
+    }
 ];
